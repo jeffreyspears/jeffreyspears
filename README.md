@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeffreyspears
-- 👀 I’m interested in ... learning coding languages, bitcoin, and nature.
+- 👀 I’m interested in ... learning coding languages, spreading bitcoin, and nature.
 - 🌱 I’m currently learning ... HTML, CSS, and JavaScript.
 
 - I don't have a formal education in computer science, and I'm teaching myself skills that I'll document here.
